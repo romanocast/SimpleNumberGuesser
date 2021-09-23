@@ -23,8 +23,7 @@ namespace SimpleNumberGuesser
                 Random random = new Random();
 
                 //Init correct number
-                //int correctNumber = random.Next(1, range);
-                int correctNumber = 55;
+                int correctNumber = random.Next(1, range);
                 // Init guess var
                 int guess = 0;
 
