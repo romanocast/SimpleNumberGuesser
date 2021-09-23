@@ -12,8 +12,6 @@ namespace SimpleNumberGuesser
             //Ask for users name and greet
             GreetUser();
 
-            
-
             while (true) {
 
                 int range = AskDifficultyLevel();
