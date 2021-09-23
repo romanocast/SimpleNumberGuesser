@@ -1,0 +1,14 @@
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\bin\Debug\netcoreapp3.1\SimpleNumberGuesser.exe
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\bin\Debug\netcoreapp3.1\SimpleNumberGuesser.deps.json
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\bin\Debug\netcoreapp3.1\SimpleNumberGuesser.runtimeconfig.json
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\bin\Debug\netcoreapp3.1\SimpleNumberGuesser.runtimeconfig.dev.json
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\bin\Debug\netcoreapp3.1\SimpleNumberGuesser.dll
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\bin\Debug\netcoreapp3.1\SimpleNumberGuesser.pdb
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.csproj.AssemblyReference.cache
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.AssemblyInfoInputs.cache
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.AssemblyInfo.cs
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.csproj.CoreCompileInputs.cache
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.dll
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.pdb
+D:\TutorialGround\C#\SimpleNumberGuesser\SimpleNumberGuesser\SimpleNumberGuesser\obj\Debug\netcoreapp3.1\SimpleNumberGuesser.genruntimeconfig.cache
